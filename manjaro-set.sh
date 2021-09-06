@@ -11,6 +11,7 @@ sudo pacman -Sy archlinuxcn-keyring
 echo 已添加中科大源
 exit
 
+
 sudo pacman -S yay
 
 
